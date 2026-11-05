@@ -1,0 +1,5 @@
+name: dart_lru_cache
+description: LRU cache with TTL and size limit
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
